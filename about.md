@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* 现居北京
+* 平时喜欢吹口琴、画画、看一些乱七八糟的书
+* 理工科硕士在读，研究方向为软物质的多尺度模拟
+* 对物理学很感兴趣，期望将来可以从事凝聚态物理的研究工作
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+P.S. 在问题得到合理的结果之后的那短暂的数秒，我把它定义为giggling time，这是支撑我行走在艰难人生路上的远方的梅子。
