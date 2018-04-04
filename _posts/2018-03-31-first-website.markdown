@@ -3,6 +3,7 @@ layout:      mypost
 title:       "说点什么吧"
 date:        2018-03-31 02:49:01 +0800
 categories:  life
+excerpt:     "总得说点什么吧，在创建了这个博客之后？"
 ---
 
 总得说点什么吧，在创建了这个博客之后？
