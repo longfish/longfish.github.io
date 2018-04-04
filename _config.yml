@@ -21,6 +21,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.gigglemcy.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longfish
 
+# Name of repository, for use with Staticman
+repository: "longfish/longfish.github.io"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  branch: "master"
+  comments: "on"
+  
 # Build settings
 markdown: kramdown
 theme: minima

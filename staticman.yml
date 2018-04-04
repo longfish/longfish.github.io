@@ -1,0 +1,18 @@
+comments:
+  allowedFields     : ['name', 'email', 'url', 'message']
+  branch            : "master"
+  commitMessage     : "Add new comment(s)"
+  filename          : "comment-{@timestamp}"
+  format            : "yaml"
+  moderation        : true
+  name              : "www.gigglemcy.com"
+  path              : "_data/comments/{options.slug}"
+  requiredFields    : ['name', 'email', 'message']
+  transforms:
+    email           : md5
+  generatedFields:
+    date:
+      type          : "date"
+      options:
+        format      : "iso8601"
+  
