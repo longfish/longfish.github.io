@@ -1,6 +1,7 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
 
   <!-- Comment form -->
+  <p>
   <h3>添加评论</h3>
   <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
     <input name="options[redirect]" type="hidden" value="https://www.gigglemcy.com">
