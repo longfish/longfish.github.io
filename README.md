@@ -1,3 +1,3 @@
 ## 博客
 
-http://www.giggle.com
+http://www.gigglemcy.com
