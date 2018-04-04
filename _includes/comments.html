@@ -2,7 +2,8 @@
 
   <!-- Comment form -->
   <p>
-  <h3>添加评论</h3>
+  <p>
+  <h3><b>添加评论</b></h3>
   <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
     <input name="options[redirect]" type="hidden" value="https://www.gigglemcy.com">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
