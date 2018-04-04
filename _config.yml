@@ -27,7 +27,6 @@ repository: "longfish/longfish.github.io"
 # Staticman comments (see staticman.yml for configuration).
 staticman:
   branch: "master"
-  comments: "on"
   
 # Build settings
 markdown: kramdown
