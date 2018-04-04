@@ -1,28 +1,28 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
 
   <!-- Comment form -->
-  <h3>Leave Your Comment:</h3>
+  <h3>添加评论</h3>
   <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
     <input name="options[redirect]" type="hidden" value="https://www.gigglemcy.com">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
     <div>
-      <legend>Name</legend>
+      <legend>评论内容 (允许使用<a href="https://kramdown.gettalong.org/syntax.html">kramdown</a>标记语言)</legend>
+      <textarea style="width:100%" name="fields[message]" rows="8"></textarea>
+    </div>
+    <div>
+      <legend>昵称</legend>
       <input name="fields[name]" type="text">
     </div>
     <div>
-      <legend>E-mail</legend>
+      <legend>邮箱</legend>
       <input name="fields[email]" type="email">
     </div>
     <div>
-      <legend>Website (optional)</legend>
+      <legend>网站 (可选)</legend>
       <input name="fields[url]" type="url">
     </div>
     <div>
-      <legend>Message (<a href="https://kramdown.gettalong.org/syntax.html">kramdown</a> markup allowed)</legend>
-      <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
-    </div>
-    <div>
-      <button type="submit">Submit Comment</button>
+      <button type="submit">提交评论</button>
     </div>
   </form>
   
