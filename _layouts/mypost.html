@@ -19,19 +19,27 @@ layout: default
     {{ content }}
   </div>
 
-  <p>
   {% if site.data.comments[page.slug] %}
-    <h2>{{ site.data.comments[page.slug] | size }} 条评论</h2>
-	<p>
+  
+    <p>
+      <h2>{{ site.data.comments[page.slug] | size }} 条评论</h2>
+	</p>
+	
     <hr color="#d9d9d9">
     {% assign comments = site.data.comments[page.slug] | sort %}
-    {% for comment in comments %}
-      <br>
-      <legend><strong>{{ comment[1].name }}</strong><legend>
-      <em>{{ comment[1].date | date: "%B %d, %Y" }}</em>
-      <p>{{ comment[1].message | markdownify }}
-    <hr color="#d9d9d9">
-    {% endfor %}
+    <p>
+	  {% for comment in comments %}
+        <br>
+            {% unless comment[1].url == blank %}
+              <a rel="external nofollow" href="{{ comment[1].url }}">{{ comment[1].name | escape }}</a>
+            {% else %}
+              {{ comment[1].name | escape }}
+            {% endunless %}
+        <em>{{ comment[1].date | date: "%B %d, %Y" }}</em>
+        <p>{{ comment[1].message | markdownify }}</p>
+        <hr color="#d9d9d9">
+      {% endfor %}
+	</p>
   {% endif %}
   
   <p>

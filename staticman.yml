@@ -14,5 +14,5 @@ comments:
     date:
       type          : "date"
       options:
-        format      : "timestamp"
+        format      : "iso8601"
   
