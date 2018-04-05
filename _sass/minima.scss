@@ -11,11 +11,11 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-$background-color: #eee9bf !default;
+$background-color: #f5f5dc !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-light: lighten($grey-color, 35%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;

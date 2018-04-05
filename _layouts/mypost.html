@@ -23,14 +23,14 @@ layout: default
   {% if site.data.comments[page.slug] %}
     <h2>{{ site.data.comments[page.slug] | size }} 条评论</h2>
 	<p>
-    <hr>
+    <hr color="#d9d9d9">
     {% assign comments = site.data.comments[page.slug] | sort %}
     {% for comment in comments %}
       <br>
       <legend><strong>{{ comment[1].name }}</strong><legend>
       <em>{{ comment[1].date | date: "%B %d, %Y" }}</em>
       <p>{{ comment[1].message | markdownify }}
-    <hr>
+    <hr color="#d9d9d9">
     {% endfor %}
   {% endif %}
   
