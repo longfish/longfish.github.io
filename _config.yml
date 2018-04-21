@@ -16,7 +16,7 @@
 title: 灵栖之境
 author: longfish
 name: gigglemcy
-email: loongfish [AT] foxmail.com
+email: loongfish AT foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   关于物理，关于艺术
 baseurl: "" # the subpath of your site, e.g. /blog
