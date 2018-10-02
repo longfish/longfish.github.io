@@ -6,7 +6,7 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 ---
 
 # Changyu Meng
-* * *
+
 *No. 15, Beisihuan West Road, Haidian District, Beijing 100190, China*  
 *mengchangyu@imech.ac.cn*
 
@@ -31,12 +31,12 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 ### Research Experiences
 * * *
 * Multi-Scale Study on Dynamic Mechanical Behavior of Polymer/Metal Interface, participated, Natural Science Foundation of China, 2017/01 – 2020/12 (main project during the graduate period).
-  * Size-dependence of Cu/Polyethylene/Cu sandwich structures; Multiscale frameworks
+  * Size-dependence of Cu/Polyethylene/Cu sandwich structures; Multiscale frameworks.
   * Proficiently utilized LAMMPS, Moltemplate, etc. to accomplish sophisticated simulation tasks.
   * Developed useful tools using C and Python to: extract useful information from output files of molecular simulations; build macromolecular models; draw vivid pictures.
 
 * Micro-Mesoscopic Simulation Study on the Dynamic Mechanical Behavior and the Interfacial Microstructure Evolution of the Polyurethane/Heterogeneous Materials System (proposal proposed but no funding received yet).
-  * Aim to tailor and analyze the microstructure of PU/heterogeneous systems to practical applications
+  * Aim to tailor and analyze the microstructure of PU/heterogeneous systems to practical applications.
   * Systematically collected the relating literatures and organized feasible research plans.
 
 * Study on Rheological Properties of Crude Oil/Water Two-Phase Emulsion (a research project in my graduate course: “The Measuremental Principles and Techniques in Experiments of Mechanics”).
