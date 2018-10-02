@@ -11,7 +11,7 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 *mengchangyu@imech.ac.cn*
 
 
-## Educational Background
+### Educational Background
 * * *
 **Institute of Mechanics, Chinese Academy of Sciences** (University of Chinese Academy of Sciences, UCAS), Beijing, China.  
 
@@ -23,48 +23,43 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 * Bachelor of Engineering in Naval Architecture & Ocean Engineering, 2012/09 – 2016/06, GPA : 3.64 (10/212)  
 * *Core courses:* Engineering Material; Materials Mechanics; Theoretical Mechanics etc.  
 
-## Research Interests
+### Research Interests
 * * *
 * **Currently:** Micro failure mechanism of interface systems; Polymer physics etc.  
 * **In future:** Statistics physics in polymer physics; Develop cross-scale methods to deeply understand the polymer systems; Find interesting phenomena of functional polymers through experiments etc.
 
-## Research Experiences
+### Research Experiences
 * * *
 * Multi-Scale Study on Dynamic Mechanical Behavior of Polymer/Metal Interface, participated, Natural Science Foundation of China, 2017/01 – 2020/12 (main project during the graduate period).
   * Size-dependence of Cu/Polyethylene/Cu sandwich structures; Multiscale frameworks
   * Proficiently utilized LAMMPS, Moltemplate, etc. to accomplish sophisticated simulation tasks.
   * Developed useful tools using C and Python to: extract useful information from output files of molecular simulations; build macromolecular models; draw vivid pictures.
 
-
 * Micro-Mesoscopic Simulation Study on the Dynamic Mechanical Behavior and the Interfacial Microstructure Evolution of the Polyurethane/Heterogeneous Materials System (proposal proposed but no funding received yet).
   * Aim to tailor and analyze the microstructure of PU/heterogeneous systems to practical applications
   * Systematically collected the relating literatures and organized feasible research plans.
-
 
 * Study on Rheological Properties of Crude Oil/Water Two-Phase Emulsion (a research project in my graduate course: “The Measuremental Principles and Techniques in Experiments of Mechanics”).
   * Prepared the emulsions and performed the rheological experiments.
   * Operated the optical microscope to observe the microstructure of crude emulsions.
   * Headed the research group and obtained a good score.
 
-
 * 2017 Shanghai Graduate Summer School of Computer Simulation and Application in the Chemical Engineering Process, held by East China University of Science and Technology, 2017/07/19 – 2017/07/31 (a seminar I attended about the molecular simulation theory and technology).
   * Performed DPD simulations for polymers using home-made C codes.
   * Using FORTRAN to realize adsorption simulations by the Grand Canonical Monte Carlo method.
-
 
 * 7th Mathematical Modeling Invitational Contest of Central China (a mathematical modeling contest, the problem is about: “Calibration of acceleration instrument based on acoustic barrier”). 
   * Analyzed and simplified the signal processing problem.
   * Realized smooth processing programs using MATLAB and its toolkits.
 
-
-## Publications
+### Publications
 * * *
 1. **Changyu Meng**, Lijuan Liao, Chenguang Huang (2018). [Study on failure mechanism of Cu-polyethylene-Cu sandwich structure by molecular dynamics simulation](https://doi.org/10.1016/j.commatsci.2018.08.011). Computational Materials Science. 154: 315-324.  
 2. Lijuan Liao, **Changyu Meng**, Chenguang Huang (2018). [Thermal decomposition behaviour of polyethylene in oxygen-free and low oxygen content circumstances by reactive molecular dynamic simulation](https://doi.org/10.1080/08927022.2018.1467011). Molecular Simulation. 44(12): 954-964.  
 3. Lijuan Liao, Chenguang Huang, **Changyu Meng** (2018). [Study on mechanical properties of polyethylene with chain branching in atomic scale by molecular dynamics simulation](https://doi.org/10.1080/08927022.2018.1471690). Molecular Simulation. 44(12): 1016-1024.  
 4. Lijuan Liao, **Changyu Meng**, Chenguang Huang (2018). Molecular Dynamics Simulations on the Tensile Deformation and Failure of a Polyethylene/Copper Interface. Proceedings of the ASME 2018 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference.    
 
-## Honors and Awards
+### Honors and Awards
 * * *
 * 2012, Merit Student in Wuhan University of Technology (Top 17%).   
 * 2013, National Encouragement Scholarship in Wuhan University of Technology.  
@@ -73,7 +68,7 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 * 2016, Outstanding Graduate in Wuhan University of Technology (Top 15%).  
 * 2017, Merit Student in University of Chinese Academy of Sciences.  
 
-## Hobbies & Life Experiences
+### Hobbies & Life Experiences
 * * *
 * Keen to read many kinds of literature genres (have studied Chinese Language and Literature as a minor in Central China Normal University for over two years).  
 * Singing (attended the Choir of Wuhan University of Technology as a bass, and for a team we won the first prize in the 5th University Students Arts Festival in Hubei).  
