@@ -1,15 +1,12 @@
 ---
 layout:      mypost
-title:       Curriculum Vitae
+title:       Changyu Meng's Curriculum Vitae
 categories:  study
 excerpt:     "Here I uploaded my CV, if you are interested on me, please go check it!"
 ---
 
-# Changyu Meng
-
 *No. 15, Beisihuan West Road, Haidian District, Beijing 100190, China*  
 *mengchangyu@imech.ac.cn*
-
 
 ### Educational Background
 * * *
