@@ -22,8 +22,8 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 
 ### Research Interests
 * * *
-* **Currently:** Micro failure mechanism of interface systems; Polymer physics etc.  
-* **In future:** Statistics physics in polymer physics; Develop cross-scale methods to deeply understand the polymer systems; Find interesting phenomena of functional polymers through experiments etc.
+* **Currently:** Micro failure mechanism of interface systems; Polymer physics.  
+* **In future:** Statistics physics in polymer physics; Developing cross-scale methods to deeply understand the polymer systems; Finding interesting phenomena of functional polymers through experiments.
 
 ### Research Experiences
 * * *
@@ -33,7 +33,7 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
   * Developed useful tools using C and Python to: extract useful information from output files of molecular simulations; build macromolecular models; draw vivid pictures.
 
 * **Micro-Mesoscopic Simulation Study on the Dynamic Mechanical Behavior and the Interfacial Microstructure Evolution of the Polyurethane/Heterogeneous Materials System** (*proposal proposed but no funding received yet*).
-  * Aim to tailor and analyze the microstructure of PU/heterogeneous systems to practical applications.
+  * To adjust and analyze the microstructure of PU/heterogeneous systems to practical applications.
   * Systematically collected the relating literatures and organized feasible research plans.
 
 * **Study on Rheological Properties of Crude Oil/Water Two-Phase Emulsion** (a research project in my graduate course: “*The Measuremental Principles and Techniques in Experiments of Mechanics*”).
