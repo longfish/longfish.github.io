@@ -27,25 +27,25 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 
 ### Research Experiences
 * * *
-* Multi-Scale Study on Dynamic Mechanical Behavior of Polymer/Metal Interface, participated, Natural Science Foundation of China, 2017/01 – 2020/12 (main project during the graduate period).
+* **Multi-Scale Study on Dynamic Mechanical Behavior of Polymer/Metal Interface, participated**, Natural Science Foundation of China, 2017/01 – 2020/12 (*main project during the graduate period*).
   * Size-dependence of Cu/Polyethylene/Cu sandwich structures; Multiscale frameworks.
   * Proficiently utilized LAMMPS, Moltemplate, etc. to accomplish sophisticated simulation tasks.
   * Developed useful tools using C and Python to: extract useful information from output files of molecular simulations; build macromolecular models; draw vivid pictures.
 
-* Micro-Mesoscopic Simulation Study on the Dynamic Mechanical Behavior and the Interfacial Microstructure Evolution of the Polyurethane/Heterogeneous Materials System (proposal proposed but no funding received yet).
+* **Micro-Mesoscopic Simulation Study on the Dynamic Mechanical Behavior and the Interfacial Microstructure Evolution of the Polyurethane/Heterogeneous Materials System** (*proposal proposed but no funding received yet*).
   * Aim to tailor and analyze the microstructure of PU/heterogeneous systems to practical applications.
   * Systematically collected the relating literatures and organized feasible research plans.
 
-* Study on Rheological Properties of Crude Oil/Water Two-Phase Emulsion (a research project in my graduate course: “The Measuremental Principles and Techniques in Experiments of Mechanics”).
+* **Study on Rheological Properties of Crude Oil/Water Two-Phase Emulsion** (a research project in my graduate course: “*The Measuremental Principles and Techniques in Experiments of Mechanics*”).
   * Prepared the emulsions and performed the rheological experiments.
   * Operated the optical microscope to observe the microstructure of crude emulsions.
   * Headed the research group and obtained a good score.
 
-* 2017 Shanghai Graduate Summer School of Computer Simulation and Application in the Chemical Engineering Process, held by East China University of Science and Technology, 2017/07/19 – 2017/07/31 (a seminar I attended about the molecular simulation theory and technology).
+* **2017 Shanghai Graduate Summer School of Computer Simulation and Application in the Chemical Engineering Process**, held by East China University of Science and Technology, 2017/07/19 – 2017/07/31 (*a seminar I attended about the molecular simulation theory and technology*).
   * Performed DPD simulations for polymers using home-made C codes.
   * Using FORTRAN to realize adsorption simulations by the Grand Canonical Monte Carlo method.
 
-* 7th Mathematical Modeling Invitational Contest of Central China (a mathematical modeling contest, the problem is about: “Calibration of acceleration instrument based on acoustic barrier”). 
+* **7th Mathematical Modeling Invitational Contest of Central China** (a mathematical modeling contest, the problem is about: “*Calibration of acceleration instrument based on acoustic barrier*”). 
   * Analyzed and simplified the signal processing problem.
   * Realized smooth processing programs using MATLAB and its toolkits.
 
@@ -67,9 +67,9 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 
 ### Hobbies & Life Experiences
 * * *
-* Keen to read many kinds of literature genres (have studied Chinese Language and Literature as a minor in Central China Normal University for over two years).  
-* Singing (attended the Choir of Wuhan University of Technology as a bass, and for a team we won the first prize in the 5th University Students Arts Festival in Hubei).  
-* Running and climbing mountains (have completed a half marathon before).  
-* Playing the chromatic harmonica.  
+* **Keen to read many kinds of literature genres** (have studied Chinese Language and Literature as a minor in Central China Normal University for over two years).  
+* **Singing** (attended the Choir of Wuhan University of Technology as a bass, and for a team we won the first prize in the 5th University Students Arts Festival in Hubei).  
+* **Running and climbing mountains** (have completed a half marathon before).  
+* **Playing the chromatic harmonica**.  
 
 [Download as a PDF](https://www.gigglemcy.com/files/CV.pdf)
