@@ -1,6 +1,6 @@
 ---
 layout:      mypost
-title:       Vurriculum Vitae
+title:       Curriculum Vitae
 categories:  study
 excerpt:     "Here I uploaded my CV, if you are interested on me, please go check it!"
 ---
