@@ -20,7 +20,7 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 ### Research Interests
 * * *
 * **Currently:** Micro failure mechanism of interface systems; Molecular simulations; Polymer physics.  
-* **In future:** Statistics physics in polymer/soft matter; Developing cross-scale methods to deeply understand the polymer systems; Finding interesting phenomena of functional polymers through experiments.
+* **In future:** Thermodynamics and statistical physics in polymer/soft matter; Developing cross-scale methods to deeply understand the polymer systems; Finding interesting phenomena of functional polymers through experiments.
 
 ### Research Experiences
 * * *
