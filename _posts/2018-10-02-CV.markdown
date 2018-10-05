@@ -9,23 +9,23 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 * * *
 **Institute of Mechanics, Chinese Academy of Sciences** (University of Chinese Academy of Sciences, UCAS), Beijing, China.  
 
-* Master of Engineering Mechanics, 2016/09 – 2019/06 (expected), GPA: 3.38  
+* Master of Engineering Mechanics, 2016/09 – 2019/06 (expected), **GPA: 3.38/4.0**  
 * *Core courses:* Elastoplastic Mechanics; Physical Chemistry of Solid-State Surface; Kinetics of Chemical Reaction; Density Functional Theory and Applications; Viscous Flow etc.  
 
 **Wuhan University of Technology** (WUT), Hubei, China.  
 
-* Bachelor of Engineering in Naval Architecture & Ocean Engineering, 2012/09 – 2016/06, GPA : 3.64 (10/212)  
+* Bachelor of Engineering in Naval Architecture & Ocean Engineering, 2012/09 – 2016/06, **GPA : 3.64/4.0 (10/212)**  
 * *Core courses:* Engineering Material; Materials Mechanics; Theoretical Mechanics etc.  
 
 ### Research Interests
 * * *
-* **Currently:** Micro failure mechanism of interface systems; Polymer physics.  
+* **Currently:** Micro failure mechanism of interface systems; Molecular simulations; Polymer physics.  
 * **In future:** Statistics physics in polymer/soft matter; Developing cross-scale methods to deeply understand the polymer systems; Finding interesting phenomena of functional polymers through experiments.
 
 ### Research Experiences
 * * *
 * **Multi-Scale Study on Dynamic Mechanical Behavior of Polymer/Metal Interface, participated**, Natural Science Foundation of China, 2017/01 – 2020/12 (*main project during the graduate period*).
-  * Size-dependence of Cu/Polyethylene/Cu sandwich structures; Multiscale frameworks.
+  * Size-dependence of Cu/Polyethylene/Cu sandwich structures; To develop multiscale frameworks.
   * Proficiently utilized LAMMPS, Moltemplate, etc. to accomplish sophisticated simulation tasks.
   * Developed useful tools using C and Python to: extract useful information from output files of molecular simulations; build macromolecular models; draw vivid pictures.
 
@@ -59,7 +59,7 @@ excerpt:     "Here I uploaded my CV, if you are interested on me, please go chec
 * 2013, National Encouragement Scholarship in Wuhan University of Technology.  
 * 2014, First-Class Prize of School Scholarship in Wuhan University of Technology.  
 * 2014, Third-Class Prize in 7th Mathematical Modeling Invitational Contest of Central China.  
-* 2016, Outstanding Graduate in Wuhan University of Technology (Top 15%).  
+* 2016, Outstanding Graduate in Wuhan University of Technology.  
 * 2017, Merit Student in University of Chinese Academy of Sciences.  
 
 ### Hobbies & Life Experiences
