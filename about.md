@@ -11,4 +11,4 @@ permalink: /about/
 
 P.S. 在问题得到合理的结果之后的那短暂的数秒，我把它定义为giggling time，这是支撑我行走在艰难人生路上的远方的梅子。
 
-这是我的[简历](https://www.gigglemcy.com/files/McyCV_20191217.pdf)，欢迎交流！
+这是我的[简历](https://www.gigglemcy.com/files/McyCV_20191218.pdf)，欢迎交流！
