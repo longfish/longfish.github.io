@@ -1,0 +1,9 @@
+---
+layout:      mypost
+title:       "生日蛋糕"
+date:        2018-03-31 02:49:01 
+categories:  life
+excerpt:     "https://www.gigglemcy.com/game/cake"
+---
+
+给贝贝做的[蛋糕](https://www.gigglemcy.com/game/cake)  :P
