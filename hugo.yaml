@@ -1,11 +1,7 @@
 baseURL: "https://www.longfishmcy.com/"
 languageCode: "en-us"
-theme: "anubis2"
+theme: "PaperMod"
 title: "Changyu Blog"
 
-GiscusRepo: "longfish/longfish.github.io"
-GiscusRepoId: "R_kgDOJxoh7g"
-GiscusCategory: "Announcements"
-GiscusCategoryId: "DIC_kwDOJxoh7s4Ch0b-"
-GiscusLazyLoad: false
-GiscusDataMapping: "pathname"
+params:
+  comments: true
