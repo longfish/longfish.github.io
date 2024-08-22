@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Changyu Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.longfishmcy.com/posts/</link>
     <description>Recent content in Posts on Changyu Blog</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Aug 2024 00:13:19 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>热力系统设计和优化（1）</title>
-      <link>http://localhost:1313/posts/thermal_design_20240821/</link>
-      <pubDate>Wed, 21 Aug 2024 00:13:19 -0700</pubDate>
-      <guid>http://localhost:1313/posts/thermal_design_20240821/</guid>
-      <description>这篇笔记来自于阅读 Design and Optimization of Thermal Systems, Second Edition, Yogesh Jaluria, CRC Press。</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://www.longfishmcy.com/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
