@@ -4,5 +4,4 @@ date = 2024-08-21T00:13:19-07:00
 draft = true
 +++
 
-参考书：Design and Optimization of Thermal Systems, Second Edition, Yogesh Jaluria, CRC Press
-
+这篇笔记整理自 Design and Optimization of Thermal Systems, Second Edition, Yogesh Jaluria, CRC Press。
